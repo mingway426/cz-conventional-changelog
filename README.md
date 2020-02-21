@@ -14,7 +14,7 @@ Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts f
 ```shell
 npm install -g commitizen
 npm install --force https://github.com/mingway426/cz-conventional-changelog.git -g
-echo '{ "path": "cz-leju-changelog" }' > ~/.czrc
+echo '{ "path": "cz-mingway-changelog" }' > ~/.czrc
 ```
 
 ## 卸载
